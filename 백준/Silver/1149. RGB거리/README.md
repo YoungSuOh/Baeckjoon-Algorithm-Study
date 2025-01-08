@@ -34,3 +34,8 @@
 
  <p>첫째 줄에 모든 집을 칠하는 비용의 최솟값을 출력한다.</p>
 
+
+### 풀이
+
+![image](https://github.com/user-attachments/assets/57a61c98-383c-4dba-93ed-dc3ae765a55c)
+
