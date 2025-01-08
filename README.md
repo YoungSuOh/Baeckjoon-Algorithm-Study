@@ -1,2 +1,24 @@
-# Baeckjoon-Algorithm-Study
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# 2025_Baeckjoon-Algorithm-Study
+> 2025 백준 스터디
+
+- 기간: 2025년 1월 7일
+- 참고 사이트: [백준](https://www.acmicpc.net/)
+- 언어: C++
+
+## 스터디 규칙 
+
+#### 문제 풀이
+
+1. 매일 1문제씩 선정해서 PS 진행 (1일 1백준). 주말에는 고난도 기출 진행 (카카오, 삼성 PS..)
+   1. 개념+알고리즘+풀이 방식 자세하게 당일날 정리하기. 
+2. PS 시간이 종료된 이후에 정리할 경우, 왠만하면 시간을 좀 들여서 스스로 해결하는 습관 갖기.
+
+  
+## 일정표
+
+| 주차 | 날짜 | 문제1 | 문제2 | 진행 현황 | 즉시 해결 여부 |
+| ---- | ------ | ---- | :-------------: | :-------------: | :-------------: |
+| 1주차 | 2025-01-07 | [피보나치는 지겨웡~](https://www.acmicpc.net/problem/17175) | - | `진행 완료` |  `성공` |
+| 1주차 | 2025-01-08 | [RGB거리](https://www.acmicpc.net/problem/17175) | - | `진행 완료` |  `실패` |
+
+
