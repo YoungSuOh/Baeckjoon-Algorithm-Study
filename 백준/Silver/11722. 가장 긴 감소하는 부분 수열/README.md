@@ -30,3 +30,6 @@
 
  <p>첫째 줄에 수열 A의 가장 긴 감소하는 부분 수열의 길이를 출력한다.</p>
 
+### 풀이
+
+![tempFileForShare_20250109-185307](https://github.com/user-attachments/assets/87b27826-ba21-4f90-baed-43b31cdb0197)
