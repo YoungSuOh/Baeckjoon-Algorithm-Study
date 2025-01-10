@@ -36,3 +36,6 @@
 
  <p>첫째 줄에 합이 최대가 되는 경로에 있는 수의 합을 출력한다.</p>
 
+### 풀이
+
+![tempFileForShare_20250110-164932](https://github.com/user-attachments/assets/352365e1-3487-46b2-8199-172bd47c7af8)
