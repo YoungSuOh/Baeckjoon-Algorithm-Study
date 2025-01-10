@@ -32,3 +32,7 @@
 
 <p>둘째 줄에는 정답이 될 수 있는 가장 긴 증가하는 부분 수열을 출력한다.</p>
 
+### 풀이
+
+![Screenshot_20250110_145143_Samsung Notes](https://github.com/user-attachments/assets/1089d98b-4e5a-46b6-9f44-f1c80bd364ac)
+
