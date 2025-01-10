@@ -23,4 +23,4 @@
 | 1주차 | 2025-01-07 | [피보나치는 지겨웡~](https://www.acmicpc.net/problem/17175) | - | `진행 완료` |  `성공` |
 | 1주차 | 2025-01-08 | [RGB거리](https://www.acmicpc.net/problem/17175) | - | `진행 완료` |  `실패` |
 | 1주차 | 2025-01-09 | [가장 긴 감소하는 부분 수열 ](https://www.acmicpc.net/problem/11722) | [가장 긴 감소하는 부분 수열 3 ](https://www.acmicpc.net/problem/12738) | `진행 완료` |  `실패` |
-
+| 1주차 | 2025-01-10 | [가장 긴 감소하는 부분 수열 5 ](https://www.acmicpc.net/problem/14003) | - | `진행 완료` |  `실패` |
