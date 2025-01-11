@@ -83,3 +83,8 @@
 
  <p>첫째 줄에 백준이가 얻을 수 있는 최대 이익을 출력한다.</p>
 
+### 풀이
+
+![tempFileForShare_20250111-235043](https://github.com/user-attachments/assets/46ff02aa-b157-48a0-9a54-5d3778e61ff3)
+
+
