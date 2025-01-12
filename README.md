@@ -25,3 +25,4 @@
 | 1주차 | 2025-01-09 | [가장 긴 감소하는 부분 수열 ](https://www.acmicpc.net/problem/11722) | [가장 긴 감소하는 부분 수열 3 ](https://www.acmicpc.net/problem/12738) | `진행 완료` |  `실패` |
 | 1주차 | 2025-01-10 | [가장 긴 감소하는 부분 수열 5 ](https://www.acmicpc.net/problem/14003) | [정수 삼각형 ](https://www.acmicpc.net/problem/1932) | `진행 완료` |  `1번 실패, 2번 성공` |
 | 1주차 | 2025-01-11 | [퇴사](https://www.acmicpc.net/problem/14501) | - | `진행 완료` |  `성공` |
+| 1주차 | 2025-01-12 | [퇴사](https://www.acmicpc.net/problem/12865) | - | `진행 완료` |  `실패` |
