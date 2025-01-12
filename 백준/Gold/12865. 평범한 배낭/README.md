@@ -32,3 +32,7 @@
 
  <p>한 줄에 배낭에 넣을 수 있는 물건들의 가치합의 최댓값을 출력한다.</p>
 
+### 풀이
+
+![tempFileForShare_20250112-174809](https://github.com/user-attachments/assets/248fd13d-55d1-4692-9544-36ac7462fac0)
+
