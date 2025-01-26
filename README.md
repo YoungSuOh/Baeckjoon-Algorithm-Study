@@ -26,3 +26,10 @@
 | 1주차 | 2025-01-10 | [가장 긴 감소하는 부분 수열 5 ](https://www.acmicpc.net/problem/14003) | [정수 삼각형 ](https://www.acmicpc.net/problem/1932) | `진행 완료` |  `1번 실패, 2번 성공` |
 | 1주차 | 2025-01-11 | [퇴사](https://www.acmicpc.net/problem/14501) | - | `진행 완료` |  `성공` |
 | 1주차 | 2025-01-12 | [평범한 배낭](https://www.acmicpc.net/problem/12865) | - | `진행 완료` |  `실패` |
+
+<h2>2주차</h2>
+
+| 주차 | 날짜 | 문제1 | 문제2 | 진행 현황 | 즉시 해결 여부 |
+| ---- | ------ | ---- | :-------------: | :-------------: | :-------------: |
+| 2주차 | 2025-01-25 | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) | [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | `진행 완료` |  `1번 성공, 2번 실패` |
+| 2주차 | 2025-01-26 | [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540) | - | `진행 완료` |  `1번 성공` |
