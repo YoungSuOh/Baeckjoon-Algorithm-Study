@@ -33,3 +33,4 @@
 | ---- | ------ | ---- | :-------------: | :-------------: | :-------------: |
 | 2주차 | 2025-01-25 | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) | [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | `진행 완료` |  `1번 성공, 2번 실패` |
 | 2주차 | 2025-01-26 | [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540) | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | `진행 완료` |  `1번 성공, 2번 성공` |
+| 2주차 | 2025-01-27 | [길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892) | - | `진행 완료` |  `1번 성공` |
