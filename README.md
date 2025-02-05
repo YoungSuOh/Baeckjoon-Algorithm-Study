@@ -42,3 +42,5 @@
 | 주차 | 날짜 | 문제1 | 문제2 | 진행 현황 | 즉시 해결 여부 |
 | ---- | ------ | ---- | :-------------: | :-------------: | :-------------: |
 | 3주차 | 2025-02-03 | [매출 하락 최소화](https://school.programmers.co.kr/learn/courses/30/lessons/72416) |  | `진행 완료` |  `1번 실패` |
+| 3주차 | 2025-02-04 | [4단 고음](https://school.programmers.co.kr/learn/courses/30/lessons/1831) |  | `진행 완료` |  `1번 실패` |
+| 3주차 | 2025-02-05 | [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | [금과 은 운반하기](https://school.programmers.co.kr/learn/courses/30/lessons/86053) | `진행 완료` |  `1번 성공, 2번 실패` |
