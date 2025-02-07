@@ -44,3 +44,5 @@
 | 3주차 | 2025-02-03 | [매출 하락 최소화](https://school.programmers.co.kr/learn/courses/30/lessons/72416) |  | `진행 완료` |  `1번 실패` |
 | 3주차 | 2025-02-04 | [4단 고음](https://school.programmers.co.kr/learn/courses/30/lessons/1831) |  | `진행 완료` |  `1번 실패` |
 | 3주차 | 2025-02-05 | [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | [금과 은 운반하기](https://school.programmers.co.kr/learn/courses/30/lessons/86053) | `진행 완료` |  `1번 성공, 2번 실패` |
+| 3주차 | 2025-02-06 | [단어의 개수](https://www.acmicpc.net/problem/1152) | - | `진행 완료` |  `1번 성공` |
+| 3주차 | 2025-02-07 | [팰린드롬수](https://www.acmicpc.net/problem/1259) | [2×n 타일링 2](https://www.acmicpc.net/problem/11727) | `진행 완료` |  `1번 성공, 2번 실패` |
