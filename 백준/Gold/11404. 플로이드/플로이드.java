@@ -6,10 +6,12 @@ public class Main {
 	static int [][] arr;
 
     public static void main(String[] args) throws IOException {
-        Scanner sc  = new Scanner(System.in);
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         
-        n = sc.nextInt();
-        m = sc.nextInt();
+        StringTokenizer st;
+        
+        n = Integer.parseInt(br.readLine());
+        m = Integer.parseInt(br.readLine());
        
         arr = new int [n+1][n+1];
         
@@ -19,9 +21,10 @@ public class Main {
         }
         
         for(int i=0;i<m;i++) {
-        	int num1 = sc.nextInt();
-        	int num2 = sc.nextInt();
-        	int num3 = sc.nextInt();
+        	st = new StringTokenizer(br.readLine());
+        	int num1 = Integer.parseInt(st.nextToken());
+        	int num2 = Integer.parseInt(st.nextToken());
+        	int num3 = Integer.parseInt(st.nextToken());
         	
         	arr[num1][num2] = Math.min(arr[num1][num2], num3);    	
         }
@@ -36,16 +39,14 @@ public class Main {
         	}
         }
         
-        for(int i=1;i<=n;i++) {
-        	for(int j=1;j<=n;j++) {
-        		if(i==j || arr[i][j]==INF) {
-        			System.out.print(0+" ");
-        		}
-        		else {
-        			System.out.print(arr[i][j]+" ");
-        		}
-        	}
-        	System.out.println();
-        }    
+        StringBuilder sb = new StringBuilder();
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= n; j++) {
+                if (arr[i][j] == INF) sb.append("0 ");
+                else sb.append(arr[i][j] + " ");
+            }
+            sb.append("\n");
+        }  
+        System.out.print(sb);
     }   
 }
